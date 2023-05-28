@@ -1,0 +1,70 @@
+body {
+  margin: 20px;
+  font-family: Rubik;
+}
+
+.avatar {
+  width: 150px;
+  color: inherit;
+  border-radius: 100%;
+  border: 1px solid white;
+}
+
+.card {
+  background-color: #10110f;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border-radius: 2px;
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  margin: 0 auto;
+  border: 3px solid red;
+  border-radius: 10px;
+  text-shadow: 1px 1px rgb(232, 143, 10);
+  text-transform: capitalize;
+}
+
+.card:hover {
+  background-color: yellow;
+  color: black;
+}
+
+.blue {
+  border: 0px solid red;
+}
+
+
+
+
+
+
+
+
+
+/* background color,image,repeat */
+/* background attachment,position,size */
+/* padding */
+/* margin */
+/* border:width,style,color */
+/* style input,style button & center */
+/* flexbox & center */
+/* display:none & visability */
+/* grouping .one,two{}*/
+/* nesting div p or .class*/
+/* dimension min/max:width & height fit-content*/
+/* overflow-x/y visible-scroll-hidden-auto */
+/* text-shadow/text&verticle align/direction left to right(ltr) vice versa */
+/* text decoration:none & transform */
+/* text spacing letter-spacing/line-height 1.7 /white-space:nowrap/word-break*/
+/* text-overflow : ellipsis(hi how are...) */
+/* inheritance property: inherit */
+/* font family google font */
+/* font size & css units : default font size for web page 16 px,view port vw(all white in page:1vw=1% width),em(default px*2),rem(default px of html page),%,vh(1vh=1% height),vmin */
+/* typography:font-style(italic,we dont use this)/font-weight(bold)*/
+/* mouse :cursor pointer */
+/* float & clear */
+/* css calc: content width = 100% , 5 elements, 6 spaces/ 6*margin of px = new px, 100- new px, 5 elements the width is : (100% - new px/5 element)*/
+/* opacity 0-1 appear the color of all elements */
+/* position: static(default), relative(move anywhere) solo, absolute ,fixed, sticky (scroll)*/
